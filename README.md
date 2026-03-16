@@ -12,4 +12,9 @@
 |[Lecture 5: Motivation behind Language Diffusion Models](https://www.youtube.com/watch?v=3awVF05VUuM&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf)|||
 |[Lecture 6: Auto Regressive Models (ARMs) Introduction](https://www.youtube.com/watch?v=HLet8XCXoKY&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf)|||
 |[Lecture 7: Auto Regressive Models (ARM) Architecture Intro](https://www.youtube.com/watch?v=bXXDARweFlw&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf)|||
+| [Lecture 8: Auto Regressive Models (ARM) Architecture Data-Transformer Blocks](https://www.youtube.com/watch?v=SMcPFZdRU8g&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf) |||
+| [Lecture 9: Auto Regressive Models (ARM) Attention Block](https://www.youtube.com/watch?v=sqJfniiuR88&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf)|||
+| [Lecture 10: Auto Regressive Models (ARM) Output and Loss Blocks](https://www.youtube.com/watch?v=2ekKz5pjR8k&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf)|||
+| [Lecture 11: Auto Regressive Models (ARM) Code: Pre training and Inference](https://www.youtube.com/watch?v=1DcAjghgeYs&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf)|||
+
 ***
