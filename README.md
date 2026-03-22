@@ -17,5 +17,8 @@
 | [Lecture 9: Auto Regressive Models (ARM) Attention Block](https://www.youtube.com/watch?v=sqJfniiuR88&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf)|||
 | [Lecture 10: Auto Regressive Models (ARM) Output and Loss Blocks](https://www.youtube.com/watch?v=2ekKz5pjR8k&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf)|||
 | [Lecture 11: Auto Regressive Models (ARM) Code: Pre training and Inference](https://www.youtube.com/watch?v=1DcAjghgeYs&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf)|||
+| [Lecture 12: Diffusion LLM Noising Schedule](https://www.youtube.com/watch?v=dov4OzCcjU0&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf) | | |
+| [Lecture 13: Diffusion LLM Training Pipeline](https://www.youtube.com/watch?v=rUGQP6bcMiw&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf) | | |
+| [Lecture 14: Diffusion LLM Inference Pipeline](https://www.youtube.com/watch?v=3dzjtDLaUJM&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf) | | |
 
 ***
