@@ -20,5 +20,10 @@
 | [Lecture 12: Diffusion LLM Noising Schedule](https://www.youtube.com/watch?v=dov4OzCcjU0&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf) | | |
 | [Lecture 13: Diffusion LLM Training Pipeline](https://www.youtube.com/watch?v=rUGQP6bcMiw&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf) | | |
 | [Lecture 14: Diffusion LLM Inference Pipeline](https://www.youtube.com/watch?v=3dzjtDLaUJM&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf) | | |
+| [Lecture 15: Diffusion LLM Entire Pipeline Summary](https://www.youtube.com/watch?v=gYzDPGdNLEo&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf) |||
+| [Lecture 16: Diffusion LLM Coded from Scratch Part 1](https://www.youtube.com/watch?v=8UiH1ttMdas&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf) |||
+| [Lecture 17: Diffusion LLM Coded from Scratch Part 2](https://www.youtube.com/watch?v=UxiCIYBhH-Y&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf) |||
+| [Lecture 18: Diffusion LLM Series Conclusion](https://www.youtube.com/watch?v=BXxlFk0lKp8&list=PLPTV0NXA_ZShhDDPgy1ygii42nwOngUaf) |||
+||||
 
 ***
