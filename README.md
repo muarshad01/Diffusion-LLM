@@ -34,3 +34,5 @@
 ***
 
 * https://github.com/topics/diffusion-llm
+* https://github.com/VILA-Lab/Awesome-DLMs
+* https://github.com/pengzhangzhi/Open-dLLM
